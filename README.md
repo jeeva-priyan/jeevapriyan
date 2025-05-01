@@ -1,4 +1,4 @@
-Brain tumor segmentation detection steps in few words:
+Brain tumor segmentation detection steps in few words :
 
 #1. Data Collection – Gather MRI scans.
 
